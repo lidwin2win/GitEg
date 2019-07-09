@@ -8,6 +8,7 @@ public class Bye {
 		
 	
 	
+		System.out.println("bye everyone");
 	
 	
 	
